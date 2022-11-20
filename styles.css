@@ -1,4 +1,11 @@
+.wrapper{
+    width: 100%;
+    height: 100vh;
+    background-color: #E1E5E8;
+}
+
 nav{
+    
     padding: 20px 0;
 }
 nav ul{
@@ -7,12 +14,15 @@ nav ul{
 }
 nav li{
     display: inline;
-    float: right;
     list-style-type: none;
      line-height: 42px;
     text-align: center;
     margin-right: 15px;
 }
 nav a{
+    font-size: 20px;
     text-decoration: none;
+    color: #272142;
+    transition: all 200ms ease-in-out;
+
 }
