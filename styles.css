@@ -3,9 +3,19 @@
     height: 100vh;
     background-color: #E1E5E8;
 }
+h1{
+  color: black;  
+  font-weight: bold;
+  font-family: "Playfair Display", "serif";
+}
+p{
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    line-height: 30px;
+    
+  }  
 
 nav{
-    
     padding: 20px 0;
 }
 nav ul{
@@ -24,5 +34,35 @@ nav a{
     text-decoration: none;
     color: #272142;
     transition: all 200ms ease-in-out;
-
 }
+nav li.active a{
+    color: #6c63ff;;
+}
+nav a:hover{
+    color: #6c63ff;
+    cursor: pointer;
+}
+.intro{
+    text-align: center;
+    padding: 20px;
+}
+.intro-profession{
+    max-width: 400px;
+    margin: auto;
+}
+.intro p{
+    font-size: 20px;
+}
+.intro h1{
+    font-size: 30px;
+}
+.btn-branding {
+    background: #6c63ff;
+    border-radius: 4px;
+    color: #fff;
+    padding: 18px 30px;
+    line-height: 25px;
+    font-size: 18px;
+    margin-top: 15px;
+  }
+  
