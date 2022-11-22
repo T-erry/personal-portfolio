@@ -20,7 +20,7 @@ To access this project on your local files, you can clone it using these steps:
 1. HTML
 2. CSS
 3. Git
-4. Bootdtrap
+4. Bootstrap
 5. JavaScript
 ### Live Site
 View [Live] https://portfolio-personal-website.netlify.app/
