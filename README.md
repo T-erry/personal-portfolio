@@ -2,10 +2,10 @@
 my Portfolio https://portfolio-personal-website.netlify.app/
 
 ## Author
-TERRYWACHUKA
+TERRY WACHUKA
 
 ### Description
-Thhis is a simple portfolio that gives an overview of myself.
+This is a simple portfolio that gives an overview of myself.
 
 ### Prerequisities
 You need to have git installed You can install it with the following command in your terminal $ sudo apt install git-all
@@ -23,4 +23,4 @@ To access this project on your local files, you can clone it using these steps:
 4. Bootdtrap
 5. JavaScript
 ### Live Site
-    View [Live] https://portfolio-personal-website.netlify.app/
+View [Live] https://portfolio-personal-website.netlify.app/
