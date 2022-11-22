@@ -61,11 +61,6 @@ nav a:hover{
 .intro h1{
     font-size: 30px;
 }
-.intro-profession{
-    font-size: 15px;
-    max-width: 400px;
-    margin: auto;
-}
 .projects{
     margin-top: 20px;
 }
